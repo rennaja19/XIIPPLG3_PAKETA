@@ -1,1 +1,1 @@
-ini adalah index pertam
+ini adalah index pertama bagi kaum muslimin
