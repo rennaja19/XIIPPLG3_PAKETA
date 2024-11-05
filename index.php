@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        Aplikasi Manajemen Pegawai
+        Aplikasi Manajemen Perpustakaan
     </header>
 
     <div class="container">
@@ -29,7 +29,8 @@
     </div>
 
     <footer>
-        pelangi permata sari
+        reni
+    
     </footer>
 
 </body>
